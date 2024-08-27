@@ -1,11 +1,58 @@
-
-
-
-
-
-
+body{
+    margin: 0;
+}
+.header{
+    background-color: #1f2937;
+    
+    
+    
+}
+.header-2{
+    
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 12px;
+    font-size: 18px;
+    
+}
+a{
+    text-decoration: none;
+    color: #e5e7eb;
+}
+.intro{
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+.intro-text{
+    font-size: 18px;
+    color:#e5e7eb;
+}
+.logo{
+    font-size: 24px;
+    color: #f9faf8;
+}
+.part-1{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 32px;
+    margin: 16px;
+}
 
 .p-h-i{
-    height: 430px;
-    width: 360px;
+    height: 240px;
+    width: 480px;
+}
+.texts{
+    tex
+    
+    
+}
+button{
+    
 }
